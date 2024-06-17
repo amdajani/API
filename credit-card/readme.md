@@ -1,4 +1,4 @@
-# Credit Card Validation API
+# Credit Card Validation REST-ful API
 
 ## Description
 This API allows users to validate credit card numbers and determine their type.
